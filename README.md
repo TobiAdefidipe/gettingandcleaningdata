@@ -1,6 +1,6 @@
 ## Course Project for Getting and Cleaning Data
 
-The repository contains the course project for the Cousera "Getting and Cleaning data"" course project. The dataset used is found at the following URL
+The repository contains the course project for the Cousera "Getting and Cleaning data"" course. The dataset used is found at the following URL
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
